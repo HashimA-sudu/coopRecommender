@@ -1,0 +1,406 @@
+student_id,skills
+1,firewall python Selenium neural networks
+2,network security database management
+3,Unix SQL Docker Spark
+4,python SQL
+5,game development Flask
+6,python Windows Server mobile app development ethical hacking
+7,Unix Hadoop game development Java
+8,Selenium machine learning cloud computing Spark
+9,Selenium AWS Unity
+10,database management SQL IoT development
+11,agile Kubernetes
+12,data analysis C++ Unix
+13,IoT development SQL
+14,software testing cryptography blockchain Arduino
+15,mobile app development web development data analysis penetration testing
+16,software testing SQL
+17,database management IoT development
+18,C++ cryptography Arduino
+19,Arduino agile
+20,penetration testing Selenium
+21,ethical hacking web development Kubernetes cryptography
+22,Unix neural networks
+23,C++ IoT development
+24,cryptography Windows Server game development
+25,R javascript game development data analysis
+26,big data Selenium web development
+27,VMware R
+28,ethical hacking Django
+29,ethical hacking C++ AWS
+30,network security neural networks Windows Server
+31,TensorFlow Docker Spark big data
+32,game development network security Flask
+33,SQL javascript firewall
+34,cryptography cloud computing
+35,Spark Kubernetes web development IoT development
+36,Kubernetes C++ Linux
+37,Windows Server machine learning firewall
+38,Unix Selenium ethical hacking Tableau
+39,software testing Spark
+40,C++ machine learning
+41,TensorFlow Flask Kotlin database management
+42,cybersecurity cryptography Flask Kubernetes
+43,AWS Arduino
+44,Unix Linux
+45,Kubernetes R
+46,python firewall Arduino
+47,neural networks javascript VMware
+48,SQL Django
+49,Unix network security
+50,penetration testing Ruby on Rails
+51,cloud computing TensorFlow Linux Kubernetes
+52,Unity Unix mobile app development
+53,cybersecurity big data penetration testing ethical hacking
+54,Java Linux firewall
+55,game development web development
+56,python Docker Windows Server
+57,Docker game development
+58,web development cryptography
+59,game development web development
+60,Tableau web development
+61,neural networks Selenium penetration testing Django
+62,Unix network security
+63,VMware Ruby on Rails neural networks Hadoop
+64,database management penetration testing
+65,agile Spark Hadoop
+66,javascript ethical hacking database management
+67,big data Tableau
+68,neural networks mobile app development
+69,Unix Java
+70,Spark Kotlin
+71,C++ neural networks web development
+72,Windows Server database management javascript
+73,Unix machine learning SQL neural networks
+74,Hadoop Django
+75,Unity big data javascript
+76,IoT development machine learning
+77,TensorFlow C++ software testing
+78,Windows Server penetration testing Django
+79,mobile app development software testing
+80,javascript Docker
+81,Unix javascript R Docker
+82,Flask Linux cloud computing
+83,Flask SQL
+84,web development Kubernetes
+85,neural networks big data
+86,VMware neural networks
+87,Kubernetes data analysis blockchain SQL
+88,penetration testing Docker VMware
+89,R TensorFlow Unity penetration testing
+90,R neural networks TensorFlow big data
+91,penetration testing ethical hacking
+92,C++ R web development
+93,C++ blockchain
+94,database management web development Unix Unity
+95,TensorFlow network security agile web development
+96,Arduino software testing
+97,Java Unix
+98,cybersecurity blockchain ethical hacking Linux
+99,penetration testing Windows Server
+100,penetration testing database management network security
+101,firewall database management Windows Server
+102,Selenium software testing
+103,Unity Tableau cryptography TensorFlow
+104,Django TensorFlow javascript SQL
+105,Spark Selenium data analysis machine learning
+106,network security cryptography TensorFlow
+107,Java Windows Server
+108,Spark Windows Server machine learning firewall
+109,AWS Unix
+110,Arduino Docker
+111,AWS Spark network security data analysis
+112,Arduino data analysis agile
+113,neural networks penetration testing
+114,agile Windows Server
+115,blockchain AWS neural networks
+116,Kotlin Hadoop
+117,Kotlin Tableau
+118,penetration testing neural networks Selenium
+119,database management IoT development
+120,Ruby on Rails game development
+121,C++ agile
+122,game development python penetration testing
+123,big data Tableau
+124,web development Selenium agile
+125,Flask big data Unix Tableau
+126,firewall TensorFlow
+127,Docker TensorFlow
+128,database management Kubernetes
+129,agile R Spark
+130,Flask firewall IoT development VMware
+131,TensorFlow data analysis
+132,Spark machine learning Linux Unix
+133,penetration testing mobile app development Arduino Spark
+134,penetration testing Tableau
+135,R penetration testing firewall cybersecurity
+136,cybersecurity penetration testing Hadoop R
+137,software testing Windows Server network security
+138,Hadoop penetration testing
+139,Kotlin blockchain VMware
+140,big data Windows Server machine learning
+141,software testing Unity Spark
+142,Kubernetes ethical hacking R C++
+143,Java Unity Flask
+144,cloud computing penetration testing SQL
+145,Flask penetration testing cryptography
+146,Tableau SQL neural networks cybersecurity
+147,mobile app development AWS
+148,data analysis neural networks
+149,blockchain web development C++
+150,cryptography VMware mobile app development
+151,IoT development Django big data neural networks
+152,ethical hacking machine learning
+153,Spark game development
+154,Linux C++
+155,Windows Server neural networks
+156,C++ network security
+157,penetration testing Linux Windows Server
+158,R Java blockchain Flask
+159,Windows Server Java cloud computing
+160,Ruby on Rails Java TensorFlow neural networks
+161,Selenium Linux Django cryptography
+162,Selenium Java
+163,software testing neural networks
+164,Tableau R Unix
+165,network security AWS
+166,IoT development AWS
+167,Unity web development Hadoop Tableau
+168,C++ Hadoop javascript Unity
+169,IoT development Docker python
+170,IoT development Ruby on Rails machine learning agile
+171,IoT development Hadoop Unix
+172,Unix Kubernetes game development Django
+173,Selenium Spark
+174,python IoT development Tableau
+175,big data cloud computing C++ network security
+176,Unix python big data Docker
+177,penetration testing python SQL ethical hacking
+178,network security C++ Kotlin
+179,TensorFlow IoT development
+180,Unity C++ R
+181,IoT development Selenium Hadoop
+182,SQL Ruby on Rails python
+183,Unix javascript agile game development
+184,web development ethical hacking data analysis python
+185,mobile app development python
+186,AWS neural networks network security Ruby on Rails
+187,firewall VMware Unity C++
+188,TensorFlow Arduino cloud computing Kubernetes
+189,firewall cloud computing cybersecurity database management
+190,python cybersecurity VMware IoT development
+191,mobile app development web development Docker
+192,cryptography neural networks database management cybersecurity
+193,Kubernetes firewall VMware data analysis
+194,Unix Spark penetration testing
+195,web development Flask ethical hacking
+196,machine learning Hadoop Django
+197,Spark Arduino
+198,C++ AWS Spark Kotlin
+199,Linux ethical hacking Selenium blockchain
+200,Ruby on Rails C++ Spark Docker
+201,R neural networks SQL
+202,Java neural networks C++
+203,blockchain penetration testing IoT development Tableau
+204,Django R
+205,Django Unity
+206,TensorFlow Tableau Selenium
+207,Selenium Windows Server machine learning Linux
+208,SQL neural networks
+209,Hadoop Django Windows Server neural networks
+210,Ruby on Rails ethical hacking Django Java
+211,SQL software testing
+212,big data neural networks
+213,penetration testing Docker Arduino
+214,Windows Server Linux agile
+215,Windows Server Tableau agile
+216,C++ Selenium cybersecurity TensorFlow
+217,firewall mobile app development
+218,firewall Unix Kotlin
+219,Unity Ruby on Rails
+220,Docker Linux Kubernetes
+221,database management mobile app development software testing
+222,Arduino Kotlin
+223,machine learning Unix network security
+224,data analysis javascript Windows Server
+225,network security cryptography Django
+226,machine learning VMware
+227,Ruby on Rails Java Tableau
+228,javascript TensorFlow
+229,firewall web development big data
+230,web development VMware cryptography
+231,javascript AWS VMware cybersecurity
+232,neural networks firewall
+233,Hadoop Kubernetes blockchain game development
+234,IoT development Java cybersecurity Docker
+235,cybersecurity VMware blockchain
+236,blockchain database management
+237,cryptography Unity
+238,penetration testing SQL cloud computing
+239,Kotlin Windows Server
+240,cloud computing machine learning
+241,Java Kubernetes Ruby on Rails
+242,data analysis game development software testing
+243,software testing C++ web development game development
+244,cryptography Docker penetration testing
+245,Spark firewall
+246,game development ethical hacking AWS Selenium
+247,web development javascript
+248,cybersecurity Kubernetes
+249,VMware software testing Java firewall
+250,cybersecurity big data Selenium
+251,Unix Django Java SQL
+252,data analysis Spark R Kubernetes
+253,python SQL game development
+254,VMware Docker python Selenium
+255,data analysis Kotlin Ruby on Rails Linux
+256,Java Selenium Kotlin Docker
+257,cryptography Django SQL
+258,agile Hadoop Tableau
+259,penetration testing database management cloud computing
+260,Hadoop Django software testing
+261,big data Windows Server data analysis C++
+262,R TensorFlow
+263,firewall big data Flask
+264,penetration testing Unix
+265,Hadoop javascript mobile app development
+266,Arduino blockchain Django cryptography
+267,javascript Unity Selenium
+268,network security software testing Java Django
+269,python cryptography
+270,neural networks cloud computing cybersecurity Windows Server
+271,Windows Server Hadoop
+272,game development firewall
+273,firewall ethical hacking AWS
+274,software testing Flask Selenium
+275,Ruby on Rails neural networks C++
+276,AWS IoT development mobile app development Kubernetes
+277,network security web development Selenium Hadoop
+278,Flask Selenium machine learning
+279,cybersecurity Docker penetration testing
+280,AWS Java Unix
+281,agile Tableau Windows Server
+282,IoT development C++ R mobile app development
+283,neural networks VMware IoT development game development
+284,data analysis R Ruby on Rails
+285,IoT development penetration testing ethical hacking AWS
+286,data analysis network security Flask
+287,Tableau database management Java Linux
+288,machine learning AWS Hadoop
+289,AWS web development Ruby on Rails TensorFlow
+290,blockchain big data ethical hacking
+291,Tableau Unix
+292,R cryptography Django
+293,data analysis blockchain web development neural networks
+294,software testing game development SQL Spark
+295,cryptography database management
+296,cloud computing cybersecurity python
+297,R javascript
+298,agile Arduino Spark
+299,neural networks Linux
+300,VMware Kotlin cloud computing
+301,SQL blockchain
+302,blockchain neural networks Django
+303,AWS game development C++ cryptography
+304,C++ TensorFlow penetration testing
+305,C++ software testing
+306,Unix cloud computing web development Java
+307,Docker cybersecurity cryptography
+308,TensorFlow C++ cybersecurity
+309,IoT development Ruby on Rails
+310,neural networks IoT development
+311,agile VMware software testing python
+312,big data Selenium machine learning VMware
+313,javascript Kubernetes Django software testing
+314,Kubernetes agile
+315,cryptography mobile app development
+316,TensorFlow penetration testing network security cryptography
+317,cryptography ethical hacking
+318,cybersecurity Java
+319,Docker Arduino
+320,network security SQL software testing R
+321,Hadoop Kotlin mobile app development network security
+322,Arduino Linux Flask Selenium
+323,TensorFlow Ruby on Rails
+324,Tableau firewall C++
+325,AWS game development
+326,big data Windows Server Arduino SQL
+327,machine learning TensorFlow Unix
+328,C++ Arduino
+329,TensorFlow Docker IoT development cryptography
+330,database management game development Ruby on Rails
+331,blockchain Windows Server
+332,blockchain game development ethical hacking
+333,cryptography C++
+334,cybersecurity ethical hacking Hadoop firewall
+335,data analysis cybersecurity
+336,firewall database management neural networks
+337,network security IoT development C++ Arduino
+338,Unix Hadoop Docker AWS
+339,ethical hacking database management Django
+340,Hadoop Selenium data analysis Arduino
+341,Java neural networks
+342,database management Arduino Unix
+343,agile javascript big data Selenium
+344,firewall C++
+345,penetration testing Unity
+346,cryptography Kubernetes python javascript
+347,neural networks network security VMware
+348,web development Windows Server
+349,Docker Unity
+350,Tableau AWS
+351,machine learning Selenium AWS network security
+352,TensorFlow Kotlin firewall penetration testing
+353,network security machine learning
+354,neural networks Docker R
+355,Kotlin TensorFlow
+356,network security Hadoop
+357,firewall web development Ruby on Rails Java
+358,Flask Docker database management
+359,Flask game development blockchain
+360,penetration testing Linux
+361,C++ ethical hacking python
+362,Ruby on Rails big data
+363,database management Django Java
+364,SQL R
+365,AWS web development network security Selenium
+366,cryptography Docker Windows Server R
+367,Kubernetes Linux software testing
+368,Flask Kubernetes Spark
+369,firewall ethical hacking
+370,Windows Server Unity Spark Java
+371,Hadoop Tableau
+372,big data Hadoop database management
+373,Spark R penetration testing
+374,Arduino AWS Ruby on Rails
+375,SQL Spark
+376,Arduino network security
+377,javascript Docker Windows Server Tableau
+378,firewall Hadoop agile penetration testing
+379,javascript software testing Kubernetes
+380,agile database management VMware
+381,Unity AWS penetration testing Ruby on Rails
+382,database management agile
+383,Arduino firewall Selenium VMware
+384,Spark Windows Server
+385,blockchain ethical hacking Windows Server python
+386,penetration testing Selenium python Kotlin
+387,cybersecurity Tableau agile
+388,Kotlin AWS
+389,penetration testing big data web development AWS
+390,cryptography python SQL Linux
+391,IoT development Hadoop
+392,Tableau cloud computing Arduino
+393,R VMware Kubernetes
+394,javascript AWS
+395,blockchain javascript
+396,SQL Selenium Java penetration testing
+397,Django Kubernetes Java
+398,Selenium Unity Flask
+399,agile Spark
+400,software testing Docker
+401,Linux penetration testing cybersecurity
+402,game development big data
+403,javascript machine learning Unity cybersecurity
+404,network security TensorFlow
+405,R firewall machine learning

@@ -1,0 +1,406 @@
+job_id,job_title,company,location,job_description,skills_required,label
+101,Backend Developer,Microsoft,Mecca,We are looking for a backend developer with expertise in VMware and Hadoop.,agile blockchain,1
+102,Database Administrator,Amazon,Tabuk,We are looking for a database administrator with expertise in VMware and Tableau.,Tableau Arduino,0
+103,Data Scientist,Google,Abha,We are looking for a data scientist with expertise in TensorFlow and cybersecurity.,Unity Linux,1
+104,AI Specialist,IBM,Mecca,We are looking for a ai specialist with expertise in Unity and Arduino.,machine learning TensorFlow,0
+105,Game Developer,Electronic Arts,Mecca,We are looking for a game developer with expertise in Ruby on Rails and Unix.,cryptography agile,0
+106,Game Developer,Apple,Khobar,We are looking for a game developer with expertise in Flask and Kubernetes.,Tableau neural networks,1
+107,Network Security Analyst,Cisco,Mecca,We are looking for a network security analyst with expertise in Docker and cybersecurity.,ethical hacking Kotlin,0
+108,Database Administrator,Yahoo,Khobar,We are looking for a database administrator with expertise in python and Unix.,AWS agile,0
+109,Frontend Developer,Facebook,Taif,We are looking for a frontend developer with expertise in data analysis and Java.,neural networks Tableau,1
+110,DevOps Engineer,Amazon,Jeddah,We are looking for a devops engineer with expertise in Spark and Unity.,data analysis web development,0
+111,Software Engineer,IBM,Dammam,We are looking for a software engineer with expertise in blockchain and R.,Tableau penetration testing,0
+112,Network Engineer,Intel,Khobar,We are looking for a network engineer with expertise in penetration testing and database management.,Docker R,1
+113,Blockchain Developer,Oracle,Dammam,We are looking for a blockchain developer with expertise in Flask and data analysis.,Java VMware,1
+114,Web Developer,SAP,Taif,We are looking for a web developer with expertise in software testing and web development.,R blockchain,1
+115,Data Scientist,Red Hat,Abha,We are looking for a data scientist with expertise in web development and Kubernetes.,Arduino neural networks,0
+116,Software Engineer,Salesforce,Tabuk,We are looking for a software engineer with expertise in Spark and game development.,VMware Selenium,0
+117,Mobile App Developer,Google,Mecca,We are looking for a mobile app developer with expertise in Docker and Ruby on Rails.,software testing IoT development,0
+118,Game Developer,Red Hat,Mecca,We are looking for a game developer with expertise in cybersecurity and Tableau.,Docker AWS,0
+119,System Administrator,Apple,Jeddah,We are looking for a system administrator with expertise in C++ and firewall.,Django database management,1
+120,Full Stack Developer,Dell,Medina,We are looking for a full stack developer with expertise in Kubernetes and cloud computing.,Flask Kotlin,1
+121,Data Scientist,Microsoft,Khobar,We are looking for a data scientist with expertise in python and software testing.,neural networks cryptography,0
+122,DevOps Engineer,Salesforce,Medina,We are looking for a devops engineer with expertise in Unix and software testing.,Selenium IoT development,1
+123,Mobile App Developer,Facebook,Jubail,We are looking for a mobile app developer with expertise in mobile app development and agile.,IoT development Selenium,1
+124,Backend Developer,Red Hat,Medina,We are looking for a backend developer with expertise in TensorFlow and database management.,network security database management,0
+125,DevOps Engineer,Electronic Arts,Tabuk,We are looking for a devops engineer with expertise in database management and TensorFlow.,Arduino game development,0
+126,Blockchain Developer,LinkedIn,Dammam,We are looking for a blockchain developer with expertise in agile and mobile app development.,javascript TensorFlow,0
+127,Game Developer,Snapchat,Medina,We are looking for a game developer with expertise in IoT development and Selenium.,Tableau Windows Server,0
+128,Cybersecurity Specialist,Red Hat,Dammam,We are looking for a cybersecurity specialist with expertise in Unix and game development.,Flask Tableau,0
+129,Network Engineer,Facebook,Jeddah,We are looking for a network engineer with expertise in firewall and big data.,mobile app development Java,1
+130,AI Specialist,Google,Khobar,We are looking for a ai specialist with expertise in javascript and Linux.,penetration testing C++,0
+131,Data Scientist,Facebook,Jubail,We are looking for a data scientist with expertise in Docker and Spark.,C++ Kotlin,1
+132,Cloud Architect,Electronic Arts,Abha,We are looking for a cloud architect with expertise in Hadoop and data analysis.,SQL Windows Server,0
+133,Blockchain Developer,Juniper Networks,Jeddah,We are looking for a blockchain developer with expertise in cloud computing and web development.,ethical hacking ethical hacking,1
+134,IoT Developer,LinkedIn,Khobar,We are looking for a iot developer with expertise in blockchain and C++.,TensorFlow Spark,0
+135,AI Specialist,Zoom,Dammam,We are looking for a ai specialist with expertise in database management and mobile app development.,Unix Tableau,1
+136,Network Security Analyst,Electronic Arts,Khobar,We are looking for a network security analyst with expertise in cybersecurity and Django.,game development firewall,0
+137,Mobile App Developer,LinkedIn,Khobar,We are looking for a mobile app developer with expertise in cloud computing and Java.,cryptography Unix,1
+138,IoT Developer,GitHub,Jeddah,We are looking for a iot developer with expertise in cloud computing and Kubernetes.,Flask firewall,0
+139,Database Administrator,VMware,Taif,We are looking for a database administrator with expertise in machine learning and Docker.,network security Ruby on Rails,0
+140,Software Engineer,Hewlett Packard,Khobar,We are looking for a software engineer with expertise in Unix and game development.,Tableau R,1
+141,Machine Learning Engineer,VMware,Jubail,We are looking for a machine learning engineer with expertise in Kubernetes and big data.,Tableau blockchain,1
+142,Database Administrator,Dell,Dammam,We are looking for a database administrator with expertise in C++ and database management.,python Arduino,1
+143,Big Data Engineer,LinkedIn,Tabuk,We are looking for a big data engineer with expertise in database management and neural networks.,SQL Spark,1
+144,Big Data Engineer,Yahoo,Taif,We are looking for a big data engineer with expertise in software testing and ethical hacking.,game development data analysis,1
+145,Full Stack Developer,Red Hat,Taif,We are looking for a full stack developer with expertise in game development and Ruby on Rails.,R python,0
+146,AI Specialist,Google,Medina,We are looking for a ai specialist with expertise in big data and TensorFlow.,cybersecurity VMware,1
+147,Web Developer,Twitter,Taif,We are looking for a web developer with expertise in Spark and big data.,Hadoop cryptography,1
+148,Cybersecurity Specialist,Oracle,Tabuk,We are looking for a cybersecurity specialist with expertise in software testing and cryptography.,agile Java,0
+149,DevOps Engineer,Facebook,Medina,We are looking for a devops engineer with expertise in cloud computing and Unity.,game development Flask,0
+150,Database Administrator,Hewlett Packard,Khobar,We are looking for a database administrator with expertise in VMware and TensorFlow.,Hadoop Selenium,0
+151,Machine Learning Engineer,Intel,Jubail,We are looking for a machine learning engineer with expertise in network security and Unix.,database management VMware,0
+152,Software Engineer,Zoom,Taif,We are looking for a software engineer with expertise in TensorFlow and Unix.,penetration testing AWS,0
+153,DevOps Engineer,Zoom,Medina,We are looking for a devops engineer with expertise in R and Java.,Django Ruby on Rails,1
+154,Software Tester,Intel,Medina,We are looking for a software tester with expertise in cloud computing and Windows Server.,mobile app development machine learning,0
+155,Backend Developer,Google,Tabuk,We are looking for a backend developer with expertise in IoT development and Django.,game development Tableau,1
+156,Full Stack Developer,Apple,Taif,We are looking for a full stack developer with expertise in IoT development and C++.,Windows Server TensorFlow,1
+157,Big Data Engineer,Intel,Khobar,We are looking for a big data engineer with expertise in penetration testing and agile.,agile Hadoop,1
+158,Network Engineer,Oracle,Dammam,We are looking for a network engineer with expertise in mobile app development and Spark.,Ruby on Rails Java,0
+159,Mobile App Developer,Cisco,Mecca,We are looking for a mobile app developer with expertise in penetration testing and software testing.,mobile app development Hadoop,0
+160,Software Engineer,Zoom,Dammam,We are looking for a software engineer with expertise in Java and neural networks.,Windows Server R,1
+161,Web Developer,Google,Medina,We are looking for a web developer with expertise in Kotlin and neural networks.,neural networks R,1
+162,Frontend Developer,Zoom,Riyadh,We are looking for a frontend developer with expertise in IoT development and firewall.,Java machine learning,1
+163,Game Developer,VMware,Dammam,We are looking for a game developer with expertise in C++ and AWS.,penetration testing Arduino,0
+164,Software Tester,Oracle,Jeddah,We are looking for a software tester with expertise in Flask and cryptography.,big data machine learning,1
+165,Software Engineer,Zoom,Mecca,We are looking for a software engineer with expertise in data analysis and R.,Unix agile,1
+166,Game Developer,Hewlett Packard,Khobar,We are looking for a game developer with expertise in Hadoop and AWS.,Django Kotlin,0
+167,Database Administrator,IBM,Jeddah,We are looking for a database administrator with expertise in Tableau and SQL.,C++ penetration testing,0
+168,Machine Learning Engineer,Intel,Medina,We are looking for a machine learning engineer with expertise in Kubernetes and javascript.,python machine learning,1
+169,AI Specialist,Zoom,Mecca,We are looking for a ai specialist with expertise in mobile app development and VMware.,R Unix,0
+170,Cybersecurity Specialist,Salesforce,Mecca,We are looking for a cybersecurity specialist with expertise in Unix and web development.,ethical hacking Java,1
+171,Backend Developer,Dell,Abha,We are looking for a backend developer with expertise in Hadoop and Linux.,Linux Unix,1
+172,Big Data Engineer,Meta,Mecca,We are looking for a big data engineer with expertise in neural networks and Windows Server.,Linux blockchain,1
+173,Cloud Architect,Electronic Arts,Medina,We are looking for a cloud architect with expertise in Spark and Docker.,IoT development web development,1
+174,Big Data Engineer,PayPal,Taif,We are looking for a big data engineer with expertise in Hadoop and python.,Django web development,1
+175,Big Data Engineer,Hewlett Packard,Medina,We are looking for a big data engineer with expertise in C++ and game development.,big data database management,1
+176,Mobile App Developer,GitHub,Medina,We are looking for a mobile app developer with expertise in Ruby on Rails and Flask.,firewall network security,0
+177,Frontend Developer,SAP,Abha,We are looking for a frontend developer with expertise in Java and SQL.,Spark agile,1
+178,AI Specialist,LinkedIn,Jubail,We are looking for a ai specialist with expertise in VMware and TensorFlow.,Hadoop Windows Server,0
+179,Frontend Developer,Juniper Networks,Riyadh,We are looking for a frontend developer with expertise in Spark and database management.,VMware Kotlin,1
+180,Backend Developer,Zoom,Dammam,We are looking for a backend developer with expertise in Kubernetes and Windows Server.,database management Selenium,1
+181,Software Engineer,Hewlett Packard,Jubail,We are looking for a software engineer with expertise in Spark and Linux.,C++ TensorFlow,0
+182,Full Stack Developer,Hewlett Packard,Khobar,We are looking for a full stack developer with expertise in Unity and Unix.,python Selenium,1
+183,Backend Developer,Apple,Abha,We are looking for a backend developer with expertise in software testing and firewall.,cryptography IoT development,0
+184,Cloud Architect,VMware,Jubail,We are looking for a cloud architect with expertise in IoT development and software testing.,web development penetration testing,0
+185,DevOps Engineer,GitHub,Khobar,We are looking for a devops engineer with expertise in Django and Selenium.,machine learning AWS,1
+186,Game Developer,Meta,Riyadh,We are looking for a game developer with expertise in javascript and C++.,Unity C++,1
+187,Cloud Architect,Cisco,Jubail,We are looking for a cloud architect with expertise in mobile app development and cloud computing.,database management VMware,1
+188,Cybersecurity Specialist,IBM,Khobar,We are looking for a cybersecurity specialist with expertise in Flask and cybersecurity.,C++ Java,1
+189,Machine Learning Engineer,Microsoft,Tabuk,We are looking for a machine learning engineer with expertise in firewall and mobile app development.,Selenium VMware,0
+190,AI Specialist,Yahoo,Jeddah,We are looking for a ai specialist with expertise in SQL and Flask.,Linux Flask,1
+191,Backend Developer,IBM,Abha,We are looking for a backend developer with expertise in Arduino and cybersecurity.,blockchain web development,0
+192,DevOps Engineer,LinkedIn,Dammam,We are looking for a devops engineer with expertise in ethical hacking and agile.,Docker TensorFlow,0
+193,Game Developer,Amazon,Jubail,We are looking for a game developer with expertise in agile and Unity.,Django Arduino,0
+194,Frontend Developer,Qualcomm,Dammam,We are looking for a frontend developer with expertise in blockchain and Unix.,data analysis data analysis,1
+195,IoT Developer,Meta,Tabuk,We are looking for a iot developer with expertise in Windows Server and R.,SQL machine learning,0
+196,Web Developer,VMware,Tabuk,We are looking for a web developer with expertise in Kotlin and Windows Server.,network security firewall,1
+197,Game Developer,Red Hat,Jubail,We are looking for a game developer with expertise in Windows Server and neural networks.,Unity Tableau,1
+198,Web Developer,Cisco,Jeddah,We are looking for a web developer with expertise in R and cryptography.,Java software testing,0
+199,IoT Developer,Apple,Taif,We are looking for a iot developer with expertise in Unix and penetration testing.,agile Linux,1
+200,Machine Learning Engineer,Dell,Khobar,We are looking for a machine learning engineer with expertise in Flask and cybersecurity.,Unity IoT development,1
+201,AI Specialist,IBM,Tabuk,We are looking for a ai specialist with expertise in game development and mobile app development.,firewall VMware,1
+202,Software Engineer,Intel,Medina,We are looking for a software engineer with expertise in web development and TensorFlow.,blockchain web development,0
+203,Mobile App Developer,Snapchat,Mecca,We are looking for a mobile app developer with expertise in ethical hacking and agile.,game development agile,1
+204,Network Engineer,IBM,Abha,We are looking for a network engineer with expertise in database management and ethical hacking.,neural networks python,1
+205,IoT Developer,Electronic Arts,Mecca,We are looking for a iot developer with expertise in ethical hacking and Windows Server.,Linux AWS,1
+206,Mobile App Developer,Dell,Tabuk,We are looking for a mobile app developer with expertise in VMware and Unix.,Ruby on Rails Docker,1
+207,Backend Developer,Twitter,Riyadh,We are looking for a backend developer with expertise in Django and SQL.,Spark Kubernetes,0
+208,Penetration Tester,Google,Khobar,We are looking for a penetration tester with expertise in penetration testing and cloud computing.,C++ R,1
+209,Machine Learning Engineer,LinkedIn,Mecca,We are looking for a machine learning engineer with expertise in ethical hacking and Spark.,Hadoop data analysis,0
+210,Backend Developer,Oracle,Abha,We are looking for a backend developer with expertise in Unix and Docker.,network security javascript,0
+211,Cybersecurity Specialist,Zoom,Jubail,We are looking for a cybersecurity specialist with expertise in neural networks and Arduino.,cloud computing blockchain,1
+212,Network Security Analyst,Cisco,Jubail,We are looking for a network security analyst with expertise in Linux and web development.,Arduino Kubernetes,1
+213,AI Specialist,Google,Medina,We are looking for a ai specialist with expertise in machine learning and VMware.,AWS IoT development,0
+214,Network Security Analyst,Twitter,Taif,We are looking for a network security analyst with expertise in Arduino and VMware.,ethical hacking python,1
+215,Game Developer,Qualcomm,Riyadh,We are looking for a game developer with expertise in cybersecurity and mobile app development.,mobile app development blockchain,1
+216,DevOps Engineer,Dell,Riyadh,We are looking for a devops engineer with expertise in Java and Flask.,mobile app development Unity,0
+217,DevOps Engineer,Meta,Jubail,We are looking for a devops engineer with expertise in Java and Kotlin.,network security ethical hacking,1
+218,AI Specialist,Snapchat,Khobar,We are looking for a ai specialist with expertise in big data and Kubernetes.,Ruby on Rails big data,0
+219,Network Engineer,GitHub,Tabuk,We are looking for a network engineer with expertise in Windows Server and database management.,Unity Flask,1
+220,Blockchain Developer,IBM,Medina,We are looking for a blockchain developer with expertise in cryptography and software testing.,game development Ruby on Rails,0
+221,Network Engineer,Electronic Arts,Riyadh,We are looking for a network engineer with expertise in web development and cryptography.,cryptography Selenium,1
+222,Machine Learning Engineer,Salesforce,Dammam,We are looking for a machine learning engineer with expertise in cloud computing and AWS.,Unix javascript,1
+223,Big Data Engineer,Google,Taif,We are looking for a big data engineer with expertise in python and cybersecurity.,Kotlin database management,1
+224,Game Developer,Apple,Khobar,We are looking for a game developer with expertise in Kubernetes and neural networks.,SQL cloud computing,1
+225,Network Security Analyst,Qualcomm,Abha,We are looking for a network security analyst with expertise in IoT development and python.,C++ Windows Server,0
+226,System Administrator,Zoom,Abha,We are looking for a system administrator with expertise in blockchain and data analysis.,TensorFlow TensorFlow,1
+227,Penetration Tester,Red Hat,Taif,We are looking for a penetration tester with expertise in AWS and Tableau.,penetration testing Kubernetes,1
+228,Software Engineer,VMware,Mecca,We are looking for a software engineer with expertise in data analysis and cloud computing.,Windows Server game development,0
+229,Web Developer,Oracle,Jubail,We are looking for a web developer with expertise in Windows Server and penetration testing.,ethical hacking Flask,1
+230,Database Administrator,Oracle,Medina,We are looking for a database administrator with expertise in blockchain and TensorFlow.,Unix database management,0
+231,Network Security Analyst,Oracle,Riyadh,We are looking for a network security analyst with expertise in mobile app development and python.,mobile app development penetration testing,0
+232,Backend Developer,VMware,Tabuk,We are looking for a backend developer with expertise in Selenium and cryptography.,mobile app development Django,1
+233,Cloud Architect,GitHub,Jubail,We are looking for a cloud architect with expertise in database management and VMware.,Ruby on Rails Tableau,1
+234,Frontend Developer,LinkedIn,Taif,We are looking for a frontend developer with expertise in cryptography and Spark.,game development ethical hacking,0
+235,Blockchain Developer,Google,Abha,We are looking for a blockchain developer with expertise in Unity and Unix.,cybersecurity data analysis,1
+236,Full Stack Developer,Microsoft,Abha,We are looking for a full stack developer with expertise in Tableau and SQL.,Kotlin software testing,1
+237,Software Engineer,VMware,Tabuk,We are looking for a software engineer with expertise in web development and mobile app development.,R VMware,0
+238,Machine Learning Engineer,Cisco,Riyadh,We are looking for a machine learning engineer with expertise in Kubernetes and Windows Server.,network security game development,0
+239,Machine Learning Engineer,Twitter,Khobar,We are looking for a machine learning engineer with expertise in SQL and C++.,Arduino Linux,0
+240,Full Stack Developer,Cisco,Mecca,We are looking for a full stack developer with expertise in cybersecurity and SQL.,cryptography ethical hacking,0
+241,Cybersecurity Specialist,VMware,Dammam,We are looking for a cybersecurity specialist with expertise in Java and Ruby on Rails.,C++ Selenium,0
+242,System Administrator,Dell,Medina,We are looking for a system administrator with expertise in Django and cybersecurity.,SQL Linux,1
+243,AI Specialist,Oracle,Abha,We are looking for a ai specialist with expertise in cryptography and machine learning.,Hadoop python,1
+244,DevOps Engineer,Juniper Networks,Medina,We are looking for a devops engineer with expertise in software testing and javascript.,big data Kotlin,1
+245,Data Scientist,Qualcomm,Dammam,We are looking for a data scientist with expertise in Django and Kotlin.,cloud computing penetration testing,1
+246,Frontend Developer,Juniper Networks,Jeddah,We are looking for a frontend developer with expertise in database management and Windows Server.,Java Tableau,1
+247,Database Administrator,VMware,Tabuk,We are looking for a database administrator with expertise in Selenium and Arduino.,agile neural networks,1
+248,Frontend Developer,Google,Dammam,We are looking for a frontend developer with expertise in web development and Django.,Spark cryptography,0
+249,DevOps Engineer,Cisco,Khobar,We are looking for a devops engineer with expertise in Tableau and agile.,data analysis software testing,1
+250,AI Specialist,Meta,Mecca,We are looking for a ai specialist with expertise in Selenium and web development.,Selenium C++,0
+251,Backend Developer,Salesforce,Abha,We are looking for a backend developer with expertise in cryptography and mobile app development.,Ruby on Rails Java,0
+252,IoT Developer,Juniper Networks,Riyadh,We are looking for a iot developer with expertise in python and mobile app development.,web development javascript,0
+253,Database Administrator,Red Hat,Khobar,We are looking for a database administrator with expertise in neural networks and data analysis.,Linux Hadoop,0
+254,Software Tester,Facebook,Khobar,We are looking for a software tester with expertise in cybersecurity and software testing.,machine learning Unix,1
+255,Blockchain Developer,GitHub,Jeddah,We are looking for a blockchain developer with expertise in cryptography and Unix.,Arduino Ruby on Rails,0
+256,Cloud Architect,Google,Riyadh,We are looking for a cloud architect with expertise in VMware and cybersecurity.,blockchain javascript,1
+257,Cybersecurity Specialist,VMware,Khobar,We are looking for a cybersecurity specialist with expertise in web development and web development.,Selenium database management,1
+258,Data Scientist,Meta,Abha,We are looking for a data scientist with expertise in C++ and Kubernetes.,cryptography Ruby on Rails,0
+259,AI Specialist,VMware,Khobar,We are looking for a ai specialist with expertise in Arduino and big data.,Docker Spark,1
+260,System Administrator,Oracle,Jeddah,We are looking for a system administrator with expertise in penetration testing and machine learning.,R Django,1
+261,Cloud Architect,Intel,Jubail,We are looking for a cloud architect with expertise in neural networks and agile.,network security Unity,0
+262,System Administrator,Twitter,Riyadh,We are looking for a system administrator with expertise in Selenium and cloud computing.,ethical hacking web development,1
+263,Database Administrator,Snapchat,Jeddah,We are looking for a database administrator with expertise in network security and database management.,Unity machine learning,1
+264,Backend Developer,Juniper Networks,Riyadh,We are looking for a backend developer with expertise in SQL and software testing.,Spark Unity,1
+265,Software Tester,Meta,Jeddah,We are looking for a software tester with expertise in VMware and Hadoop.,blockchain neural networks,1
+266,Backend Developer,Red Hat,Jubail,We are looking for a backend developer with expertise in cybersecurity and cloud computing.,javascript Kotlin,1
+267,System Administrator,Apple,Mecca,We are looking for a system administrator with expertise in Java and Selenium.,IoT development SQL,1
+268,Full Stack Developer,Juniper Networks,Mecca,We are looking for a full stack developer with expertise in Spark and Java.,Arduino network security,1
+269,Mobile App Developer,Juniper Networks,Medina,We are looking for a mobile app developer with expertise in big data and javascript.,Django cybersecurity,1
+270,Network Security Analyst,GitHub,Abha,We are looking for a network security analyst with expertise in machine learning and ethical hacking.,cryptography Arduino,1
+271,Big Data Engineer,Google,Tabuk,We are looking for a big data engineer with expertise in Linux and data analysis.,blockchain Selenium,0
+272,Cloud Architect,Zoom,Riyadh,We are looking for a cloud architect with expertise in cloud computing and agile.,firewall python,0
+273,DevOps Engineer,Snapchat,Jubail,We are looking for a devops engineer with expertise in SQL and Tableau.,Docker neural networks,1
+274,System Administrator,Twitter,Riyadh,We are looking for a system administrator with expertise in IoT development and penetration testing.,firewall web development,0
+275,Data Scientist,Amazon,Jubail,We are looking for a data scientist with expertise in data analysis and Arduino.,blockchain big data,0
+276,Full Stack Developer,Cisco,Medina,We are looking for a full stack developer with expertise in Flask and TensorFlow.,penetration testing Unity,1
+277,IoT Developer,SAP,Dammam,We are looking for a iot developer with expertise in network security and R.,Selenium TensorFlow,1
+278,Penetration Tester,SAP,Riyadh,We are looking for a penetration tester with expertise in AWS and Spark.,Tableau mobile app development,1
+279,Data Scientist,SAP,Jubail,We are looking for a data scientist with expertise in Docker and penetration testing.,cryptography TensorFlow,0
+280,Database Administrator,VMware,Dammam,We are looking for a database administrator with expertise in game development and cloud computing.,ethical hacking javascript,0
+281,Big Data Engineer,GitHub,Abha,We are looking for a big data engineer with expertise in database management and machine learning.,blockchain Kubernetes,1
+282,Software Tester,Qualcomm,Tabuk,We are looking for a software tester with expertise in Kubernetes and Linux.,Docker Kubernetes,0
+283,Game Developer,PayPal,Mecca,We are looking for a game developer with expertise in machine learning and game development.,machine learning penetration testing,0
+284,Web Developer,Zoom,Abha,We are looking for a web developer with expertise in VMware and Django.,IoT development IoT development,0
+285,Game Developer,Zoom,Riyadh,We are looking for a game developer with expertise in database management and Spark.,web development firewall,0
+286,Network Engineer,Oracle,Medina,We are looking for a network engineer with expertise in SQL and Linux.,penetration testing TensorFlow,1
+287,Software Engineer,Intel,Taif,We are looking for a software engineer with expertise in cloud computing and Django.,mobile app development SQL,1
+288,Software Engineer,VMware,Riyadh,We are looking for a software engineer with expertise in firewall and game development.,penetration testing mobile app development,0
+289,Penetration Tester,Microsoft,Jeddah,We are looking for a penetration tester with expertise in Java and python.,Arduino Tableau,1
+290,Software Engineer,Juniper Networks,Taif,We are looking for a software engineer with expertise in python and Arduino.,Tableau data analysis,1
+291,DevOps Engineer,Qualcomm,Khobar,We are looking for a devops engineer with expertise in machine learning and Unix.,cryptography software testing,0
+292,Network Security Analyst,VMware,Dammam,We are looking for a network security analyst with expertise in Linux and firewall.,VMware software testing,0
+293,Network Security Analyst,Amazon,Riyadh,We are looking for a network security analyst with expertise in cloud computing and Linux.,R R,1
+294,Frontend Developer,Twitter,Abha,We are looking for a frontend developer with expertise in Unity and cybersecurity.,network security javascript,1
+295,Penetration Tester,Cisco,Dammam,We are looking for a penetration tester with expertise in firewall and C++.,web development cloud computing,0
+296,DevOps Engineer,Microsoft,Taif,We are looking for a devops engineer with expertise in data analysis and Spark.,database management cloud computing,0
+297,Cloud Architect,Yahoo,Riyadh,We are looking for a cloud architect with expertise in Django and Unix.,cybersecurity Hadoop,0
+298,AI Specialist,Hewlett Packard,Riyadh,We are looking for a ai specialist with expertise in agile and data analysis.,Kotlin big data,1
+299,System Administrator,VMware,Khobar,We are looking for a system administrator with expertise in Flask and Linux.,network security network security,1
+300,Full Stack Developer,Juniper Networks,Jeddah,We are looking for a full stack developer with expertise in R and cybersecurity.,Django web development,0
+301,Blockchain Developer,Hewlett Packard,Jeddah,We are looking for a blockchain developer with expertise in Linux and mobile app development.,Unix Unity,0
+302,Mobile App Developer,Zoom,Tabuk,We are looking for a mobile app developer with expertise in agile and python.,IoT development cryptography,0
+303,DevOps Engineer,GitHub,Dammam,We are looking for a devops engineer with expertise in web development and network security.,Flask game development,0
+304,Mobile App Developer,Facebook,Medina,We are looking for a mobile app developer with expertise in Tableau and python.,firewall Hadoop,0
+305,Software Tester,Apple,Riyadh,We are looking for a software tester with expertise in cryptography and cryptography.,VMware Unix,1
+306,Machine Learning Engineer,Electronic Arts,Riyadh,We are looking for a machine learning engineer with expertise in python and agile.,Kubernetes game development,1
+307,Frontend Developer,Hewlett Packard,Taif,We are looking for a frontend developer with expertise in Linux and penetration testing.,Windows Server game development,1
+308,Backend Developer,PayPal,Dammam,We are looking for a backend developer with expertise in Docker and Arduino.,agile Windows Server,1
+309,Big Data Engineer,Twitter,Abha,We are looking for a big data engineer with expertise in agile and cloud computing.,javascript VMware,1
+310,Cybersecurity Specialist,Yahoo,Abha,We are looking for a cybersecurity specialist with expertise in cybersecurity and Flask.,Java ethical hacking,1
+311,System Administrator,Microsoft,Mecca,We are looking for a system administrator with expertise in ethical hacking and network security.,firewall SQL,0
+312,Cybersecurity Specialist,SAP,Dammam,We are looking for a cybersecurity specialist with expertise in data analysis and neural networks.,database management Unity,0
+313,Database Administrator,Google,Mecca,We are looking for a database administrator with expertise in R and Linux.,Unity cryptography,0
+314,Game Developer,Amazon,Dammam,We are looking for a game developer with expertise in Selenium and Docker.,cloud computing network security,0
+315,Game Developer,Snapchat,Riyadh,We are looking for a game developer with expertise in C++ and game development.,Kotlin Unity,0
+316,Software Engineer,GitHub,Jeddah,We are looking for a software engineer with expertise in Tableau and SQL.,cloud computing ethical hacking,1
+317,IoT Developer,Salesforce,Mecca,We are looking for a iot developer with expertise in blockchain and neural networks.,Flask ethical hacking,0
+318,Data Scientist,Salesforce,Taif,We are looking for a data scientist with expertise in javascript and Kubernetes.,ethical hacking mobile app development,1
+319,Network Engineer,Meta,Abha,We are looking for a network engineer with expertise in javascript and Django.,mobile app development C++,0
+320,DevOps Engineer,PayPal,Taif,We are looking for a devops engineer with expertise in Hadoop and Kubernetes.,Django Tableau,1
+321,Game Developer,Meta,Abha,We are looking for a game developer with expertise in data analysis and TensorFlow.,machine learning IoT development,0
+322,Network Engineer,Hewlett Packard,Jubail,We are looking for a network engineer with expertise in Kotlin and ethical hacking.,Java cloud computing,0
+323,Game Developer,Facebook,Medina,We are looking for a game developer with expertise in Spark and Tableau.,C++ TensorFlow,1
+324,Data Scientist,Amazon,Khobar,We are looking for a data scientist with expertise in Arduino and Tableau.,data analysis Windows Server,1
+325,Software Engineer,Salesforce,Tabuk,We are looking for a software engineer with expertise in Unity and blockchain.,SQL TensorFlow,1
+326,Backend Developer,Apple,Jubail,We are looking for a backend developer with expertise in penetration testing and agile.,Unity web development,1
+327,Web Developer,Yahoo,Tabuk,We are looking for a web developer with expertise in agile and Unix.,Selenium IoT development,0
+328,Game Developer,Yahoo,Medina,We are looking for a game developer with expertise in cybersecurity and Django.,Tableau big data,0
+329,Software Engineer,Dell,Riyadh,We are looking for a software engineer with expertise in Hadoop and javascript.,Kubernetes Arduino,0
+330,Web Developer,Yahoo,Tabuk,We are looking for a web developer with expertise in web development and big data.,Ruby on Rails C++,0
+331,IoT Developer,Google,Abha,We are looking for a iot developer with expertise in Ruby on Rails and Windows Server.,Unity Arduino,1
+332,Software Engineer,Hewlett Packard,Khobar,We are looking for a software engineer with expertise in VMware and Arduino.,SQL cryptography,1
+333,System Administrator,Intel,Abha,We are looking for a system administrator with expertise in Spark and Unity.,blockchain cybersecurity,1
+334,Game Developer,Zoom,Jeddah,We are looking for a game developer with expertise in Linux and javascript.,mobile app development Ruby on Rails,1
+335,AI Specialist,Salesforce,Khobar,We are looking for a ai specialist with expertise in Ruby on Rails and Java.,Hadoop software testing,0
+336,Frontend Developer,Qualcomm,Jeddah,We are looking for a frontend developer with expertise in AWS and Unity.,AWS mobile app development,0
+337,Penetration Tester,SAP,Jubail,We are looking for a penetration tester with expertise in cybersecurity and big data.,SQL C++,1
+338,Mobile App Developer,Electronic Arts,Jeddah,We are looking for a mobile app developer with expertise in AWS and software testing.,database management Windows Server,1
+339,DevOps Engineer,Red Hat,Jeddah,We are looking for a devops engineer with expertise in game development and C++.,Flask Unix,0
+340,Network Security Analyst,Hewlett Packard,Taif,We are looking for a network security analyst with expertise in cybersecurity and neural networks.,Hadoop Selenium,0
+341,Network Engineer,Dell,Khobar,We are looking for a network engineer with expertise in Selenium and python.,Selenium Tableau,1
+342,Network Engineer,SAP,Jeddah,We are looking for a network engineer with expertise in web development and Docker.,Arduino Spark,0
+343,Penetration Tester,Facebook,Mecca,We are looking for a penetration tester with expertise in software testing and neural networks.,R cloud computing,1
+344,Game Developer,Zoom,Riyadh,We are looking for a game developer with expertise in Java and penetration testing.,Arduino Java,0
+345,Penetration Tester,SAP,Tabuk,We are looking for a penetration tester with expertise in TensorFlow and Kotlin.,Java Ruby on Rails,1
+346,Blockchain Developer,VMware,Khobar,We are looking for a blockchain developer with expertise in database management and penetration testing.,AWS Linux,0
+347,Mobile App Developer,Qualcomm,Jubail,We are looking for a mobile app developer with expertise in blockchain and cryptography.,cloud computing javascript,0
+348,Database Administrator,Red Hat,Khobar,We are looking for a database administrator with expertise in data analysis and javascript.,Flask penetration testing,1
+349,Database Administrator,Twitter,Taif,We are looking for a database administrator with expertise in Windows Server and Spark.,Docker R,1
+350,Frontend Developer,Cisco,Taif,We are looking for a frontend developer with expertise in web development and neural networks.,javascript Selenium,0
+351,Blockchain Developer,Yahoo,Dammam,We are looking for a blockchain developer with expertise in web development and Unix.,cybersecurity Tableau,1
+352,Big Data Engineer,SAP,Abha,We are looking for a big data engineer with expertise in Django and C++.,Ruby on Rails blockchain,0
+353,Blockchain Developer,Twitter,Riyadh,We are looking for a blockchain developer with expertise in Unix and cryptography.,javascript C++,0
+354,Blockchain Developer,Oracle,Riyadh,We are looking for a blockchain developer with expertise in Arduino and database management.,IoT development Arduino,1
+355,Cybersecurity Specialist,Qualcomm,Jubail,We are looking for a cybersecurity specialist with expertise in big data and Hadoop.,data analysis Unix,0
+356,Web Developer,Google,Riyadh,We are looking for a web developer with expertise in IoT development and Linux.,Arduino neural networks,1
+357,Frontend Developer,Red Hat,Dammam,We are looking for a frontend developer with expertise in game development and python.,Tableau Kubernetes,1
+358,Backend Developer,SAP,Khobar,We are looking for a backend developer with expertise in SQL and data analysis.,IoT development Arduino,1
+359,Backend Developer,Intel,Abha,We are looking for a backend developer with expertise in neural networks and Linux.,database management Spark,1
+360,Database Administrator,Oracle,Medina,We are looking for a database administrator with expertise in Java and neural networks.,game development javascript,1
+361,Web Developer,PayPal,Abha,We are looking for a web developer with expertise in Flask and TensorFlow.,agile Linux,1
+362,Machine Learning Engineer,SAP,Jeddah,We are looking for a machine learning engineer with expertise in Docker and IoT development.,web development Java,0
+363,IoT Developer,IBM,Dammam,We are looking for a iot developer with expertise in Django and Hadoop.,network security neural networks,1
+364,Database Administrator,Yahoo,Tabuk,We are looking for a database administrator with expertise in ethical hacking and C++.,big data Spark,1
+365,Game Developer,Hewlett Packard,Riyadh,We are looking for a game developer with expertise in big data and cryptography.,javascript python,0
+366,Mobile App Developer,Amazon,Tabuk,We are looking for a mobile app developer with expertise in neural networks and neural networks.,Tableau penetration testing,0
+367,Mobile App Developer,IBM,Riyadh,We are looking for a mobile app developer with expertise in IoT development and Flask.,Unix C++,0
+368,DevOps Engineer,Yahoo,Dammam,We are looking for a devops engineer with expertise in AWS and IoT development.,cybersecurity Selenium,1
+369,Cybersecurity Specialist,Yahoo,Jeddah,We are looking for a cybersecurity specialist with expertise in Java and agile.,agile Flask,0
+370,Network Security Analyst,Qualcomm,Riyadh,We are looking for a network security analyst with expertise in AWS and Selenium.,cybersecurity ethical hacking,1
+371,Blockchain Developer,PayPal,Riyadh,We are looking for a blockchain developer with expertise in web development and Spark.,data analysis software testing,1
+372,Cloud Architect,Amazon,Jeddah,We are looking for a cloud architect with expertise in VMware and cloud computing.,cybersecurity machine learning,0
+373,AI Specialist,Hewlett Packard,Khobar,We are looking for a ai specialist with expertise in neural networks and web development.,Unix Kotlin,1
+374,Cybersecurity Specialist,IBM,Medina,We are looking for a cybersecurity specialist with expertise in Flask and Django.,Django Tableau,1
+375,Game Developer,SAP,Khobar,We are looking for a game developer with expertise in IoT development and Tableau.,Selenium agile,0
+376,Software Engineer,Microsoft,Abha,We are looking for a software engineer with expertise in Unix and TensorFlow.,Windows Server IoT development,0
+377,Cybersecurity Specialist,Salesforce,Medina,We are looking for a cybersecurity specialist with expertise in VMware and IoT development.,Flask IoT development,1
+378,DevOps Engineer,Juniper Networks,Jeddah,We are looking for a devops engineer with expertise in ethical hacking and Kotlin.,IoT development cybersecurity,0
+379,Database Administrator,Hewlett Packard,Abha,We are looking for a database administrator with expertise in Windows Server and Kotlin.,python TensorFlow,1
+380,Web Developer,IBM,Taif,We are looking for a web developer with expertise in Hadoop and cybersecurity.,game development Linux,1
+381,Backend Developer,Cisco,Medina,We are looking for a backend developer with expertise in Spark and penetration testing.,data analysis big data,0
+382,DevOps Engineer,Cisco,Riyadh,We are looking for a devops engineer with expertise in python and mobile app development.,penetration testing Tableau,0
+383,Data Scientist,Red Hat,Taif,We are looking for a data scientist with expertise in blockchain and blockchain.,cryptography game development,1
+384,Software Engineer,Microsoft,Tabuk,We are looking for a software engineer with expertise in Windows Server and Tableau.,data analysis python,1
+385,Game Developer,Facebook,Dammam,We are looking for a game developer with expertise in Kotlin and SQL.,cryptography web development,1
+386,Cloud Architect,Facebook,Tabuk,We are looking for a cloud architect with expertise in firewall and VMware.,python Selenium,1
+387,Blockchain Developer,Hewlett Packard,Tabuk,We are looking for a blockchain developer with expertise in Ruby on Rails and cybersecurity.,Selenium ethical hacking,0
+388,Penetration Tester,Meta,Mecca,We are looking for a penetration tester with expertise in Unity and Kubernetes.,Linux web development,0
+389,Penetration Tester,Salesforce,Abha,We are looking for a penetration tester with expertise in game development and cybersecurity.,Flask cryptography,1
+390,Mobile App Developer,Facebook,Mecca,We are looking for a mobile app developer with expertise in machine learning and javascript.,penetration testing database management,0
+391,Machine Learning Engineer,Salesforce,Khobar,We are looking for a machine learning engineer with expertise in Docker and C++.,Spark Unity,0
+392,Web Developer,GitHub,Jubail,We are looking for a web developer with expertise in IoT development and VMware.,software testing cybersecurity,1
+393,Cloud Architect,Microsoft,Riyadh,We are looking for a cloud architect with expertise in Selenium and Unity.,penetration testing network security,1
+394,Machine Learning Engineer,Google,Taif,We are looking for a machine learning engineer with expertise in database management and game development.,TensorFlow R,0
+395,Data Scientist,Google,Dammam,We are looking for a data scientist with expertise in Spark and data analysis.,Docker R,0
+396,Machine Learning Engineer,Cisco,Abha,We are looking for a machine learning engineer with expertise in python and Arduino.,Kubernetes software testing,1
+397,AI Specialist,Red Hat,Taif,We are looking for a ai specialist with expertise in Flask and Kubernetes.,TensorFlow C++,0
+398,Cybersecurity Specialist,SAP,Jubail,We are looking for a cybersecurity specialist with expertise in AWS and VMware.,C++ Unity,0
+399,Software Tester,Google,Medina,We are looking for a software tester with expertise in software testing and Ruby on Rails.,Java mobile app development,1
+400,Blockchain Developer,Electronic Arts,Medina,We are looking for a blockchain developer with expertise in game development and blockchain.,Arduino Unix,1
+401,DevOps Engineer,GitHub,Riyadh,We are looking for a devops engineer with expertise in neural networks and Spark.,Java web development,1
+402,Frontend Developer,Google,Abha,We are looking for a frontend developer with expertise in Django and Unix.,game development VMware,1
+403,Penetration Tester,Meta,Riyadh,We are looking for a penetration tester with expertise in Linux and Tableau.,firewall Spark,0
+404,Network Security Analyst,Yahoo,Riyadh,We are looking for a network security analyst with expertise in IoT development and SQL.,Arduino C++,1
+405,Mobile App Developer,Snapchat,Riyadh,We are looking for a mobile app developer with expertise in javascript and network security.,agile firewall,1
+406,Software Tester,Salesforce,Jeddah,We are looking for a software tester with expertise in data analysis and SQL.,Django penetration testing,1
+407,Mobile App Developer,Apple,Khobar,We are looking for a mobile app developer with expertise in database management and Linux.,AWS cloud computing,1
+408,Web Developer,Yahoo,Abha,We are looking for a web developer with expertise in Hadoop and python.,machine learning firewall,0
+409,Network Engineer,Snapchat,Jeddah,We are looking for a network engineer with expertise in Java and Arduino.,machine learning database management,0
+410,DevOps Engineer,Meta,Taif,We are looking for a devops engineer with expertise in Kotlin and neural networks.,mobile app development IoT development,1
+411,Web Developer,PayPal,Jubail,We are looking for a web developer with expertise in Java and Unix.,Java ethical hacking,1
+412,IoT Developer,Apple,Tabuk,We are looking for a iot developer with expertise in R and Arduino.,Arduino AWS,1
+413,Web Developer,LinkedIn,Mecca,We are looking for a web developer with expertise in cybersecurity and Hadoop.,agile Selenium,0
+414,Web Developer,Juniper Networks,Riyadh,We are looking for a web developer with expertise in Kotlin and javascript.,Windows Server firewall,1
+415,Network Engineer,Yahoo,Jeddah,We are looking for a network engineer with expertise in Flask and Unity.,cloud computing Spark,0
+416,Penetration Tester,Meta,Abha,We are looking for a penetration tester with expertise in web development and penetration testing.,game development software testing,0
+417,System Administrator,Google,Khobar,We are looking for a system administrator with expertise in software testing and Ruby on Rails.,Kotlin python,0
+418,System Administrator,Red Hat,Jeddah,We are looking for a system administrator with expertise in mobile app development and agile.,cryptography Hadoop,0
+419,Cloud Architect,Oracle,Medina,We are looking for a cloud architect with expertise in C++ and Linux.,Django network security,0
+420,Web Developer,Oracle,Tabuk,We are looking for a web developer with expertise in R and Windows Server.,web development big data,1
+421,System Administrator,Red Hat,Jubail,We are looking for a system administrator with expertise in Java and javascript.,Unix TensorFlow,0
+422,Software Engineer,Zoom,Mecca,We are looking for a software engineer with expertise in python and ethical hacking.,software testing Ruby on Rails,0
+423,Cloud Architect,Twitter,Abha,We are looking for a cloud architect with expertise in TensorFlow and Spark.,Flask network security,1
+424,Software Engineer,Hewlett Packard,Riyadh,We are looking for a software engineer with expertise in big data and cybersecurity.,Kubernetes Flask,1
+425,Full Stack Developer,PayPal,Riyadh,We are looking for a full stack developer with expertise in machine learning and C++.,machine learning Unix,0
+426,Software Engineer,Hewlett Packard,Jeddah,We are looking for a software engineer with expertise in mobile app development and game development.,network security data analysis,0
+427,Frontend Developer,IBM,Tabuk,We are looking for a frontend developer with expertise in AWS and Docker.,web development web development,0
+428,Game Developer,Google,Khobar,We are looking for a game developer with expertise in SQL and Linux.,python Docker,0
+429,Machine Learning Engineer,PayPal,Mecca,We are looking for a machine learning engineer with expertise in cloud computing and Spark.,big data network security,0
+430,Database Administrator,Apple,Khobar,We are looking for a database administrator with expertise in game development and firewall.,Ruby on Rails game development,0
+431,Network Engineer,Meta,Jubail,We are looking for a network engineer with expertise in machine learning and ethical hacking.,data analysis cybersecurity,1
+432,Game Developer,Cisco,Riyadh,We are looking for a game developer with expertise in Flask and software testing.,Django Kotlin,0
+433,Network Engineer,VMware,Mecca,We are looking for a network engineer with expertise in firewall and blockchain.,Selenium Docker,0
+434,Full Stack Developer,VMware,Medina,We are looking for a full stack developer with expertise in TensorFlow and data analysis.,cloud computing agile,1
+435,Web Developer,Zoom,Abha,We are looking for a web developer with expertise in Ruby on Rails and SQL.,AWS Spark,1
+436,Full Stack Developer,Meta,Khobar,We are looking for a full stack developer with expertise in Tableau and database management.,Docker big data,0
+437,Software Engineer,Oracle,Khobar,We are looking for a software engineer with expertise in Windows Server and firewall.,data analysis Hadoop,0
+438,Blockchain Developer,Intel,Abha,We are looking for a blockchain developer with expertise in Unix and Unity.,Tableau big data,0
+439,Frontend Developer,SAP,Jeddah,We are looking for a frontend developer with expertise in javascript and Ruby on Rails.,mobile app development game development,0
+440,Network Engineer,Facebook,Medina,We are looking for a network engineer with expertise in Docker and game development.,Windows Server VMware,0
+441,Network Engineer,Twitter,Jeddah,We are looking for a network engineer with expertise in python and cryptography.,Django Hadoop,0
+442,System Administrator,Red Hat,Jeddah,We are looking for a system administrator with expertise in machine learning and Kubernetes.,Unity Unix,0
+443,IoT Developer,Apple,Khobar,We are looking for a iot developer with expertise in blockchain and VMware.,big data Ruby on Rails,1
+444,AI Specialist,Meta,Jeddah,We are looking for a ai specialist with expertise in Docker and cloud computing.,Java mobile app development,1
+445,Mobile App Developer,Snapchat,Dammam,We are looking for a mobile app developer with expertise in IoT development and Spark.,Unity Hadoop,1
+446,Frontend Developer,Snapchat,Riyadh,We are looking for a frontend developer with expertise in IoT development and Arduino.,mobile app development javascript,1
+447,IoT Developer,VMware,Jubail,We are looking for a iot developer with expertise in Ruby on Rails and SQL.,database management SQL,0
+448,Game Developer,Apple,Tabuk,We are looking for a game developer with expertise in Selenium and Unity.,Java SQL,0
+449,AI Specialist,Microsoft,Tabuk,We are looking for a ai specialist with expertise in web development and agile.,AWS Unity,1
+450,Machine Learning Engineer,Amazon,Tabuk,We are looking for a machine learning engineer with expertise in machine learning and Tableau.,mobile app development firewall,0
+451,Network Security Analyst,Google,Medina,We are looking for a network security analyst with expertise in Unity and firewall.,data analysis C++,0
+452,Frontend Developer,Facebook,Tabuk,We are looking for a frontend developer with expertise in Unix and cryptography.,cryptography Tableau,0
+453,Backend Developer,SAP,Medina,We are looking for a backend developer with expertise in Hadoop and database management.,Docker Selenium,0
+454,Software Tester,Intel,Riyadh,We are looking for a software tester with expertise in Windows Server and Java.,blockchain SQL,0
+455,Cybersecurity Specialist,Electronic Arts,Taif,We are looking for a cybersecurity specialist with expertise in blockchain and Ruby on Rails.,Hadoop TensorFlow,0
+456,IoT Developer,IBM,Abha,We are looking for a iot developer with expertise in javascript and Hadoop.,software testing firewall,0
+457,Software Engineer,Meta,Abha,We are looking for a software engineer with expertise in VMware and VMware.,Tableau Spark,0
+458,Data Scientist,Cisco,Tabuk,We are looking for a data scientist with expertise in cloud computing and IoT development.,ethical hacking C++,0
+459,Cybersecurity Specialist,GitHub,Dammam,We are looking for a cybersecurity specialist with expertise in big data and Windows Server.,cryptography Spark,1
+460,Full Stack Developer,SAP,Khobar,We are looking for a full stack developer with expertise in agile and python.,Java penetration testing,0
+461,Network Engineer,Cisco,Abha,We are looking for a network engineer with expertise in Selenium and python.,Linux Arduino,1
+462,Database Administrator,Cisco,Medina,We are looking for a database administrator with expertise in Unity and Spark.,Unity Tableau,0
+463,Software Engineer,Yahoo,Tabuk,We are looking for a software engineer with expertise in game development and IoT development.,Selenium database management,0
+464,DevOps Engineer,Meta,Jeddah,We are looking for a devops engineer with expertise in game development and Spark.,database management Unity,1
+465,Mobile App Developer,IBM,Mecca,We are looking for a mobile app developer with expertise in firewall and Flask.,TensorFlow cybersecurity,0
+466,System Administrator,Yahoo,Mecca,We are looking for a system administrator with expertise in Tableau and Selenium.,Flask data analysis,1
+467,AI Specialist,Google,Taif,We are looking for a ai specialist with expertise in web development and Spark.,R neural networks,1
+468,Network Security Analyst,IBM,Mecca,We are looking for a network security analyst with expertise in Tableau and Tableau.,VMware machine learning,0
+469,Big Data Engineer,Microsoft,Khobar,We are looking for a big data engineer with expertise in Kubernetes and Hadoop.,mobile app development SQL,1
+470,Software Engineer,PayPal,Khobar,We are looking for a software engineer with expertise in neural networks and mobile app development.,Ruby on Rails Windows Server,1
+471,Game Developer,Apple,Taif,We are looking for a game developer with expertise in Django and ethical hacking.,Unix ethical hacking,1
+472,Big Data Engineer,Oracle,Jeddah,We are looking for a big data engineer with expertise in Windows Server and R.,blockchain Tableau,1
+473,Software Tester,Red Hat,Dammam,We are looking for a software tester with expertise in Windows Server and Unix.,IoT development Tableau,1
+474,Cloud Architect,Electronic Arts,Taif,We are looking for a cloud architect with expertise in cloud computing and C++.,ethical hacking C++,0
+475,Cybersecurity Specialist,LinkedIn,Abha,We are looking for a cybersecurity specialist with expertise in database management and mobile app development.,Arduino Selenium,0
+476,DevOps Engineer,Hewlett Packard,Medina,We are looking for a devops engineer with expertise in network security and javascript.,SQL VMware,1
+477,Software Tester,Amazon,Medina,We are looking for a software tester with expertise in big data and data analysis.,cloud computing Tableau,0
+478,Full Stack Developer,Microsoft,Dammam,We are looking for a full stack developer with expertise in Flask and software testing.,network security javascript,0
+479,Backend Developer,Yahoo,Riyadh,We are looking for a backend developer with expertise in Java and R.,Spark python,0
+480,System Administrator,Amazon,Jubail,We are looking for a system administrator with expertise in firewall and network security.,blockchain Flask,1
+481,Data Scientist,Electronic Arts,Riyadh,We are looking for a data scientist with expertise in Linux and Hadoop.,VMware mobile app development,1
+482,Frontend Developer,Yahoo,Abha,We are looking for a frontend developer with expertise in Tableau and Unity.,javascript Kotlin,0
+483,DevOps Engineer,Apple,Taif,We are looking for a devops engineer with expertise in Flask and Ruby on Rails.,Django Arduino,0
+484,Software Tester,Hewlett Packard,Mecca,We are looking for a software tester with expertise in Flask and Django.,network security firewall,1
+485,Frontend Developer,GitHub,Taif,We are looking for a frontend developer with expertise in cybersecurity and Docker.,Kotlin cybersecurity,0
+486,Database Administrator,Apple,Taif,We are looking for a database administrator with expertise in blockchain and ethical hacking.,Java Django,0
+487,Network Security Analyst,Twitter,Jubail,We are looking for a network security analyst with expertise in IoT development and SQL.,big data Flask,0
+488,AI Specialist,Facebook,Tabuk,We are looking for a ai specialist with expertise in Spark and neural networks.,Docker Arduino,0
+489,Database Administrator,Hewlett Packard,Dammam,We are looking for a database administrator with expertise in Hadoop and IoT development.,network security web development,0
+490,Database Administrator,Facebook,Medina,We are looking for a database administrator with expertise in Docker and Unity.,Flask web development,1
+491,DevOps Engineer,PayPal,Jubail,We are looking for a devops engineer with expertise in Hadoop and R.,Django Linux,0
+492,Network Security Analyst,VMware,Riyadh,We are looking for a network security analyst with expertise in database management and Kotlin.,IoT development Windows Server,1
+493,AI Specialist,Dell,Tabuk,We are looking for a ai specialist with expertise in data analysis and cloud computing.,R neural networks,0
+494,Software Tester,Snapchat,Abha,We are looking for a software tester with expertise in cybersecurity and web development.,Docker Windows Server,0
+495,Full Stack Developer,GitHub,Medina,We are looking for a full stack developer with expertise in Unity and mobile app development.,game development python,0
+496,Mobile App Developer,SAP,Medina,We are looking for a mobile app developer with expertise in Kotlin and TensorFlow.,ethical hacking Ruby on Rails,1
+497,IoT Developer,Salesforce,Abha,We are looking for a iot developer with expertise in data analysis and Hadoop.,machine learning Arduino,1
+498,Mobile App Developer,IBM,Dammam,We are looking for a mobile app developer with expertise in Tableau and cloud computing.,cryptography penetration testing,1
+499,Frontend Developer,Yahoo,Abha,We are looking for a frontend developer with expertise in Unity and Docker.,ethical hacking web development,1
+500,Backend Developer,LinkedIn,Jeddah,We are looking for a backend developer with expertise in cybersecurity and database management.,SQL Windows Server,0
+501,AI Specialist,Intel,Khobar,We are looking for a ai specialist with expertise in data analysis and game development.,penetration testing Flask,1
+502,System Administrator,Twitter,Mecca,We are looking for a system administrator with expertise in Windows Server and IoT development.,R mobile app development,1
+503,Penetration Tester,Twitter,Taif,We are looking for a penetration tester with expertise in javascript and Unity.,cloud computing penetration testing,0
+504,AI Specialist,Oracle,Khobar,We are looking for a ai specialist with expertise in Docker and Flask.,big data cybersecurity,1
+505,Web Developer,Salesforce,Tabuk,We are looking for a web developer with expertise in VMware and Tableau.,network security game development,1
